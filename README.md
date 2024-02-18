@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the GitHub repository for a data analysis project focused on historical automobile sales. This project utilizes Python and various data visualization libraries to analyze trends in automobile sales, specifically during recession periods.
 
-<img src="https://github.com/eduardoalvarz/Data-Analysis-for-Historical-Automobile-Sales/blob/main/Figures/mapp.PNG" width="325">
+<img src="https://github.com/eduardoalvarz/Data-Analysis-for-Historical-Automobile-Sales/blob/main/Figures/mapp.PNG" width="400">
 
 ## Objectives
 1. **Load Data:** Import the historical automobile sales dataset into a pandas DataFrame.
